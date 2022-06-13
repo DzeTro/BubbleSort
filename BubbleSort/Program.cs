@@ -5,7 +5,7 @@ public class Programm
     static void Main(string[] args)
     {
         // Zu sortierende Array 
-        int[] arr = { 88, 55, 1, 6, 80, 99, 556, 700 };
+        int[] arr = { 88, 55, 1, 6, 80, 99, 556, 700,10 , 15 };
 
         // Hilfsvariable
         int temp = 0;
