@@ -7,7 +7,7 @@ public class Programm
         // Zu sortierende Array 
         int[] arr = { 88, 55, 1, 6, 80, 99, 556, 700, 10, 15 };
 
-        // Hilfsvariable
+        // Hilfsvariable zum Zwischenspeichern
         int temp = 0;
 
         temp = BubbleSort(arr, temp);
